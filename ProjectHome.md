@@ -1,0 +1,1 @@
+Flexible Point Of Sale System written in Python
